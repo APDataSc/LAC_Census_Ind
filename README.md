@@ -1,4 +1,4 @@
-# Harmonization of census microdata
+# Indicators from the LAC censuses
 
 ## Latin America and the Caribbean
 
