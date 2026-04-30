@@ -13,13 +13,13 @@
 
 ------------------------------------------------------------------------
 
-## Introduction {#introduction}
+## Introduction
 
 The `LAC_Census_HMicrodata` repository contains the transformation scripts for the original censuses, providing census information that is comparable over time and across countries. The variables in these databases are built under a common approach and structure (where possible), with standardized names, definitions and disaggregations, and stored in a separate folder for each country.
 
 ------------------------------------------------------------------------
 
-## Workflow {#workflow}
+## Workflow
 
 The repository that has folders, referring to the countries of the region, are named with the acronym of the country (ISO 3166-1 alpha-3).
 
@@ -105,7 +105,7 @@ In all cases, it was verified that the aggregated figures of the microdata are e
 
 ------------------------------------------------------------------------
 
-## Prerequisites {#prerequisites}
+## Prerequisites
 
 ### Software Requirements
 
@@ -125,6 +125,6 @@ library(survey)
 
 ------------------------------------------------------------------------
 
-## Important links {#important-links}
+## Important links
 
 -   [ARGENTINA](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165)
