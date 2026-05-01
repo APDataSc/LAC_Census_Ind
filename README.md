@@ -38,7 +38,7 @@ census forms, data dictionaries & user manuals
 In all cases, it was verified that the aggregated figures of the microdata are equal to those published in the national statistical offices.
 
 ```         
-{LAC_Census_HMicrodata}/
+{LAC_Census_Ind}/
   └── README.html
   
   └── {data}/
